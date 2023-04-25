@@ -36,7 +36,6 @@
 # MonoGame files
 /bin/*
 /obj/*
-*.mgcb
 *.pfx
 
 # Content files
