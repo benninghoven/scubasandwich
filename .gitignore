@@ -49,15 +49,3 @@ bin/
 Content/
 obj/
 run.sh
-
-# Game code files and directories to include
-Game1.cs
-GameObjects/
-Managers/
-Program.cs
-Screens/
-TheGame.csproj
-Utilities/
-Icon.bmp
-Icon.ico
-
