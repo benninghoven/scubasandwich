@@ -1,0 +1,63 @@
+# Visual Studio files
+*.user
+*.suo
+*.aps
+*.ipch
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.log
+*.tlog
+*.lastbuildstate
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.res
+*.sbr
+*.tlh
+*.tli
+*.tlb
+*.tmp
+*.tmp_proj
+*.bak
+*.cache
+*.ilk
+*.dll
+*.lib
+
+# MonoGame files
+/bin/*
+/obj/*
+*.mgcb
+*.pfx
+
+# Content files
+/Content/bin/*
+/Content/obj/*
+
+# Other files and directories to ignore
+app.manifest
+bin/
+Content/
+obj/
+run.sh
+
+# Game code files and directories to include
+Game1.cs
+GameObjects/
+Managers/
+Program.cs
+Screens/
+TheGame.csproj
+Utilities/
+Icon.bmp
+Icon.ico
+
