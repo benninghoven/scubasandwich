@@ -44,7 +44,6 @@
 /Content/obj/*
 
 # Other files and directories to ignore
-app.manifest
 bin/
 obj/
 run.sh
